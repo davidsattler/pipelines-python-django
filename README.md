@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/CCSADA/SADA_Implementation_Training/_apis/build/status/davidsattler.pipelines-python-django?branchName=master)](https://dev.azure.com/CCSADA/SADA_Implementation_Training/_build/latest?definitionId=1&branchName=master)
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
